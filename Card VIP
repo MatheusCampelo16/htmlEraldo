@@ -1,0 +1,59 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Lerdo Card Vip</title>
+  </head>
+  <body>
+    <p><strong>Matheus Campelo Caldas:</strong> </p>
+    <p><strong>E-mail:</strong> matheus.caldas@estudante.com</p>
+    <p><strong>Contato:</strong> (63) 99110-6935</p>
+    <p><strong>Insta do homi:</strong> https://www.instagram.com/cristiano/</p>
+    <p><strong>GitHub:</strong> </p>
+ 
+<hr>
+<br>
+Ola, busco oportunidades de estágio na área de desenvolvimento web para<br>
+aplicar e expandir meus conhecimentos técnicos e habilidades de programação.
+ <br>
+ <br>
+ <br>
+ <h2>Tecnologias Web:</h2>
+ <br>
+ <br>
+
+
+    1. Linguagens HTML e CSS  <br>
+    2. Frameworks Front-End: React js, Vue js  <br>
+    3. Ferramenta de controle de versão: Github    <br>
+    4. Editores de texto: Visual studio Code  <br>
+
+
+<br>
+ <br>
+ <h2>Idiomas</h3>
+    <br>
+     <li>Portugues (Nativo)</li>
+         <li>Inglês (Intermediário)</li>
+
+
+<br>
+    <h2>Projetos:</h2>
+    <br>
+ <dl>
+    <dt>E-commerce Website (Projeto acadêmico) </dt>
+    <dd>Desenvolvimento Completo de um site de comércio eletrônico</dd>
+    <dd>utilizando HTML e CSS. Implementação de funcionalidades como </dd>
+    <dd>autenticação de usuário e carrinho de compras</dd>
+    Blog Pessoal (Projeto Social)
+    <dd> Criação de um blog estático utilizando HTML e CSS</dd>
+</dl>
+
+
+
+
+
+
+</body>
+</html>
+
