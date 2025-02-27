@@ -6,6 +6,19 @@
   </head>
   <body>
     <p><strong>Matheus Campelo Caldas:</strong> </p>
+
+
+    <img src= "C:\Users\202310210007\Desktop\html eraldo\Matheusfoto.jpg">
+   <br>
+   <br>
+    <a ref="C:\Users\202310210007\Desktop\html eraldo" download>C:\Users\202310210007\Desktop\html eraldo</a>
+
+
+   <br>
+   <br>
+           <h2>Contatos</h2>
+
+
     <p><strong>E-mail:</strong> matheus.caldas@estudante.com</p>
     <p><strong>Contato:</strong> (63) 99110-6935</p>
     <p><strong>Insta do homi:</strong> https://www.instagram.com/cristiano/</p>
@@ -23,18 +36,22 @@ aplicar e expandir meus conhecimentos técnicos e habilidades de programação.
  <br>
 
 
-    1. Linguagens HTML e CSS  <br>
-    2. Frameworks Front-End: React js, Vue js  <br>
-    3. Ferramenta de controle de versão: Github    <br>
-    4. Editores de texto: Visual studio Code  <br>
+<dl>
+    <dd>1. Linguagens HTML e CSS</dd>
+    <dd>2. Frameworks Front-End: React js, Vue</dd>
+    <dd>3. Ferramenta de controle de versão: Github</dd>  
+    <dd>4. Editores de texto: Visual studio Code</dd>
+<dl>
 
 
 <br>
  <br>
  <h2>Idiomas</h3>
     <br>
-     <li>Portugues (Nativo)</li>
-         <li>Inglês (Intermediário)</li>
+    <dd><li>Portugues (Nativo)</li></dd>
+    <dd><li>Inglês (Intermediário)</li></dd>
+
+
 
 
 <br>
@@ -51,9 +68,4 @@ aplicar e expandir meus conhecimentos técnicos e habilidades de programação.
 
 
 
-
-
-
-</body>
-</html>
 
