@@ -1,71 +1,104 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <title>Lerdo Card Vip</title>
-  </head>
-  <body>
-    <p><strong>Matheus Campelo Caldas:</strong> </p>
+<CurriculoMatheus html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo Matheus </title>
+</head>
 
+<body>
+<h1>Aluno: Matheus Campelo Caldas</h1>
+<h2>Contato:</h2> 
+</body>
 
-    <img src= "C:\Users\202310210007\Desktop\html eraldo\Matheusfoto.jpg">
-   <br>
-   <br>
-    <a ref="C:\Users\202310210007\Desktop\html eraldo" download>C:\Users\202310210007\Desktop\html eraldo</a>
-
-
-   <br>
-   <br>
-           <h2>Contatos</h2>
-
-
-    <p><strong>E-mail:</strong> matheus.caldas@estudante.com</p>
-    <p><strong>Contato:</strong> (63) 99110-6935</p>
-    <p><strong>Insta do homi:</strong> https://www.instagram.com/cristiano/</p>
-    <p><strong>GitHub:</strong> </p>
- 
+<head>
+    <strong>E-mail:</strong> matheus.caldas@estudante.ifto.edu.br
+<br>
+<strong>Telefone:</strong> +55 (63) 99110-6935
+<strong>Instagram:</strong> mtheus
+<br>
+<strong>GitHub:</strong> MatheusCampelo16
 <hr>
+</head>
+
+<img src="C:\Users\202310210007\CurriculoMatheus\Matheusfoto.jpg" width="200" height="200">
+<head>
+<article>Olá , busco portunidade de estágio na área de desenvolvimento vou para aplicar e
+    expandir meus conhecimentos técnicos e habilidades de programação.</article> 
+
+     <br> 
+
+    <ul>
+    
+            <h2>Tecnologias Web:</h2>
+       
+    
+            1.Linguagens:HTML and Python
+            <br>
+            2.Frameworks Frontend: Reactjs
+            <br>
+            3.Ferramenta de controle de Versão: GitHub
+           <br>
+            4.Editores de texto: Visual Studio Code
+
+   </ul>
+     
+</head>
+
+<head>
+<ul>   <h2>Idiomas:</h2>
+    Português (nativo)
+ </ul>
+ 
+</head>
+
+
+<head>
+<ul><h2>Projetos:</h2></ul>
+
+E-commerce Website (Projeto Acadêmico)
 <br>
-Ola, busco oportunidades de estágio na área de desenvolvimento web para<br>
-aplicar e expandir meus conhecimentos técnicos e habilidades de programação.
- <br>
- <br>
- <br>
- <h2>Tecnologias Web:</h2>
- <br>
- <br>
+<dd>Desenvolvimento completo de um site de comércio eletrônico utilizando HTML e CSS.
+    Implementação de funcionalidades como autenticação de usuário e carrinho de compras.
+</dd>
+Blog pessoal (Projeto pessoal)
+  
+  <dd>Criação de um blog  estático utilizando HTML e CSS</dd>
+  
+  <br>
+
+<table border="1">
+   
+<tr>
+
+<td>Empresa</td>
+<td>Cargo</td>
+<td>Tempo de Exp</td>  
+
+</tr>
+
+<tr>
+<td>Empresa A</td>
+<td>Estagiario</td>
+<td>6 meses</td>
+
+</tr>
 
 
-<dl>
-    <dd>1. Linguagens HTML e CSS</dd>
-    <dd>2. Frameworks Front-End: React js, Vue</dd>
-    <dd>3. Ferramenta de controle de versão: Github</dd>  
-    <dd>4. Editores de texto: Visual studio Code</dd>
-<dl>
+<tr>
 
+<td>Empresa B</td>
+<td>Estagiario</td>
+<td>6 meses</td>
 
+</tr>
+
+  </table>
 <br>
- <br>
- <h2>Idiomas</h3>
-    <br>
-    <dd><li>Portugues (Nativo)</li></dd>
-    <dd><li>Inglês (Intermediário)</li></dd>
+
+  <button>Sem função</button>
 
 
+</head>
 
-
-<br>
-    <h2>Projetos:</h2>
-    <br>
- <dl>
-    <dt>E-commerce Website (Projeto acadêmico) </dt>
-    <dd>Desenvolvimento Completo de um site de comércio eletrônico</dd>
-    <dd>utilizando HTML e CSS. Implementação de funcionalidades como </dd>
-    <dd>autenticação de usuário e carrinho de compras</dd>
-    Blog Pessoal (Projeto Social)
-    <dd> Criação de um blog estático utilizando HTML e CSS</dd>
-</dl>
-
-
-
-
+</html> 
